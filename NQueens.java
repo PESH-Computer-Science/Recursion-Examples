@@ -1,6 +1,5 @@
-package Recursion;
-
 import java.util.Arrays;
+// Solution to N Queens problem. Video is on the YouTube channel.
 
 public class NQueens{
     static char board[][];
