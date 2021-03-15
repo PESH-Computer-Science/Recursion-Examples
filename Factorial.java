@@ -1,5 +1,3 @@
-package Recursion;
-
 public class Factorial {
     // recursive equation
     // base case
