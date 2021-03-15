@@ -1,4 +1,4 @@
-package Recursion;
+// Generate all Strings of length 3 containing 0s, 1s, and 2s.
 
 public class Example {
     public static void recurse(String s){
